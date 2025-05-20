@@ -8,3 +8,4 @@ qtdesign으로 결과를만들고
 resource
 ![스크린샷 2025-05-20 153518](https://github.com/user-attachments/assets/75cd2425-b9ac-4bd4-878a-e8eddd41638c)
 ![스크린샷 2025-05-20 153652](https://github.com/user-attachments/assets/368d2049-a005-4597-8142-a9faaa3918f0)
+![Uploading 스크린샷 2025-05-20 154030.png…]()
